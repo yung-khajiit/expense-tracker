@@ -1,3 +1,3 @@
 <template>
-    <h2>Expense Tracker</h2>
+    <h2>Jesse's Expense Tracker 2024</h2>
 </template>
